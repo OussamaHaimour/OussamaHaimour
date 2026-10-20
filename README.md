@@ -30,7 +30,7 @@
   <a href="https://github.com/OussamaHaimour?tab=repositories">
     <img src="https://img.shields.io/badge/REPOSITORIES-12_PROJECTS-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00D4FF" alt="Repositories" />
   </a>
-  <a href="https://www.linkedin.com/in/oussama-haimour/">
+  <a href="https://www.linkedin.com/in/oussama-haimour-581433248" target="_blank">
     <img src="https://img.shields.io/badge/LOCATION-MOROCCO-00D4FF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=0d1117" alt="Location" />
   </a>
 </p>
@@ -238,16 +238,13 @@ engineer:
 ### 🌐 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oussama-haimour/" target="_blank">
+  <a href="https://www.linkedin.com/in/oussama-haimour-581433248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/OussamaHaimour" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:oussama.haimour.pro@gmail.com" target="_blank">
+  <a href="mailto:oussamahaimour1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/OussamaHaimour?tab=repositories" target="_blank">
+  <a href="https://oussama.haimour.ma/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
 </p>
