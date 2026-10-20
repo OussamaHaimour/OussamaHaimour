@@ -1,27 +1,27 @@
 <!-- ======================================================= -->
-<!-- HEADER BANNER                                           -->
+<!-- ANIMATED CYBER HUD HEADER                               -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="assets/header.png" alt="Oussama Haimour - Header Banner" width="100%" />
+  <img src="assets/header.gif" alt="Oussama Haimour - Animated Cyber Header" width="100%" />
+</p>
+
+<!-- ======================================================= -->
+<!-- DYNAMIC INTERACTIVE TERMINAL & TYPING HERO              -->
+<!-- ======================================================= -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=1100&color=00D4FF&center=true&vCenter=true&width=820&height=50&lines=%E2%9E%9C+Welcome+to+my+Engineering+Workspace+%F0%9F%91%8B;%E2%9A%A1+Big+Data+Architect+%26+Distributed+Pipelines+Specialist;%F0%9F%A4%96+Machine+Learning%2C+Deep+Learning+%26+Predictive+AI+Models;%F0%9F%93%8A+Real-Time+Data+Analytics%2C+NLP+%26+LLM+Assistants;%F0%9F%9A%80+Architecting+Scalable%2C+High-Throughput+Intelligent+Systems" alt="Interactive Typing Hero" />
+  </a>
 </p>
 
 <!-- ======================================================= -->
 <!-- GREETING & MASCOT                                       -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="assets/groot.gif" width="140" alt="Waving Baby Groot" />
+  <img src="assets/groot.gif" width="130" alt="Waving Baby Groot" />
 </p>
 
 <h2 align="center">Hey there, fellow innovators! I'm Oussama Haimour 👋</h2>
-
-<!-- ======================================================= -->
-<!-- DYNAMIC TYPING SVG                                      -->
-<!-- ======================================================= -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=Big+Data+Engineering+%26+Distributed+Systems+%E2%9A%A1;Machine+Learning+%26+Predictive+AI+Models+%F0%9F%A4%96;High-Performance+Data+Pipelines+%26+NLP+%F0%9F%93%8A;Architecting+Intelligent+Scalable+Solutions+%F0%9F%9A%80" alt="Typing Subtitle" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/OussamaHaimour">
@@ -256,5 +256,5 @@ engineer:
 <!-- FOOTER BANNER                                           -->
 <!-- ======================================================= -->
 <p align="center">
-  <img src="assets/footer.png" alt="Oussama Haimour - Footer Banner" width="100%" />
+  <img src="assets/footer.gif" alt="Oussama Haimour - Animated Cyber Footer" width="100%" />
 </p>
